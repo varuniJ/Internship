@@ -1,0 +1,5 @@
+Implementation of AI-based Object Recognition Application using AI and IOT.
+This project presents the development of an AI-driven smart glove for object recognition and interaction, incorporating piezoelectric sensors, flex sensors, and Support Vector Machine (SVM) for classification. The glove utilizes flex sensors to detect hand gestures and finger movements, while the piezoelectric sensor on the palm measures pressure, providing haptic feedback based on grip strength.
+Using SVM, the system classifies objects based on gestures and applied pressure, enabling precise interaction. 
+This smart glove offers a versatile solution for assistive technologies, robotic manipulation, and rehabilitation. By combining flex sensors, piezoelectric feedback, and SVM-based recognition, the glove enhances user control and precision in object manipulation.
+In summary, the AI-driven smart glove provides an innovative, scalable solution for interactive object recognition and manipulation, with potential applications in healthcare, industrial automation, and wearable technology. 
